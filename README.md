@@ -6,8 +6,6 @@
 - 🔭 I’m currently working on **Deep learning**
 
 - 🌱 I’m currently learning **Data structures and Algorithms**
-
- <img align="right" alt="coding" width="400" src= "https://dribbble.com/shots/10879984/attachments/2538097?mode=media">
        
 - 👯 I’m looking to collaborate on **Opensource project**
 
